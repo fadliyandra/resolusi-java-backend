@@ -1,5 +1,5 @@
 Resolusi Java Banckend
 - Java Opp
-- SQL
 - Springboot
 - switch karir
+- mengulang lagi materi sql
